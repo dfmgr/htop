@@ -5,7 +5,7 @@ interactive process viewer for Unix systems
 Automatic install/update:
 
 ```shell
-bash -c "$(curl -LSs https://github.com/dfmgr/htop/raw/master/install.sh)"
+bash -c "$(curl -LSs https://github.com/dfmgr/htop/raw/main/install.sh)"
 ```
 
 Manual install:
